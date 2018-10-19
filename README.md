@@ -8,4 +8,4 @@ _Здравствуйте, это репозиторий для публикац
 
 
 Задание: субритры к ролику на ютубе 
-![субритры](https://www.youtube.com/watch?v=JHL-DtzgQoM&t=2s)"Ролик с субтитрами")
+https://www.youtube.com/watch?v=JHL-DtzgQoM&t=2s
