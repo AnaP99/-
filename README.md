@@ -9,4 +9,4 @@ _Здравствуйте, это репозиторий для публикац
 Задание: субритры к ролику на ютубе 
 https://www.youtube.com/watch?v=JHL-DtzgQoM&t=2s
 
-Задания:[Анализ трендов(инвариантное задание (https://github.com/AnaP99/AnaP99/blob/master/11.1%20%D0%A2%D0%A0%D0%95%D0%9D%D0%94%D0%AB.pptx) 
+Задания:[Анализ трендов](https://github.com/AnaP99/AnaP99/blob/master/11.1%20%D0%A2%D0%A0%D0%95%D0%9D%D0%94%D0%AB.pptx) 
