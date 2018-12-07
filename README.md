@@ -5,7 +5,7 @@
 _Здравствуйте, это репозиторий для публикации заданий!_
 
 ![кот](https://icdn.lenta.ru/images/2015/12/15/11/20151215114126414/pic_a8bf01cef0eaf46338e791bf08db72c1.jpg "КОТИК")
-
+![кот2](https://ic.pics.livejournal.com/igor_kn/15183324/30857/30857_640.jpg "Счастливыйкот")
 
 Задание: субритры к ролику на ютубе 
 https://www.youtube.com/watch?v=JHL-DtzgQoM&t=2s
